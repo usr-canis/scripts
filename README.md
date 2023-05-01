@@ -13,3 +13,11 @@ zipExtractor.ps1 [path to zip]
 ## Prerequisites
 * powershell 5.0 or later
 * admin privileges 
+
+# addPath.ps1
+This PowerShell script adds the current working directory to the system's PATH environment variable in Windows.
+``` powershell
+addPath.ps1
+```
+##prerequisites
+*admin privileges
