@@ -19,5 +19,5 @@ This PowerShell script adds the current working directory to the system's PATH e
 ``` powershell
 addPath.ps1
 ```
-##prerequisites
-*admin privileges
+## prerequisites
+* admin privileges
